@@ -16,8 +16,8 @@ bell=0       # 1: Draw the distribution in each box. 0: Do not draw the distribu
 sample="NOR" # sample: SAM=from file, NOR=Random Normal(0,1), UNI=Random Uniform(0,1), EXP=Random Exponential(1)
 
 # If sample="SAM" The sample has to be in an ASCCI file with all the values in a column without header and named sample.dat)
-mu0=0        # Mean hipotized when data are from a file (sample="SAM"). For Quetelet Data mean = 40.332 
-sigma0=1     # Standard deviation hipotized when data are from a file (sample="SAM"). For Quetelet Data sd = 2.070
+mu0=0        # Mean hipotized when data are from a file (sample="SAM"). For Quetelet Data: mean = 40.332 
+sigma0=1     # Standard deviation hipotized when data are from a file (sample="SAM"). For Quetelet Data: sd = 2.070
 
 # If sample !="SAM" The data are randomly generated
 size=100     # Size for random samples
