@@ -1,2 +1,2 @@
 # Mosaic-Normality-Test
-Mosaic Normality Test
+Mosaic normality test
